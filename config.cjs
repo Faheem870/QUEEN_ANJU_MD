@@ -20,6 +20,6 @@ module.exports = {
   "OWNER_NAME": "MR FAHEEM",
   "NEWS_JID": "923154937411@s.whatsapp.net",
   "AUTO_TYPING": true,
-  "AUTO_RECORDING": true,
+  "AUTO_RECORDING": false,
   "AUTO_NEWS": true
 };
